@@ -1,3 +1,3 @@
-how to download source coode
-click on code and last option download source code
+how to download source code? <br>
+click on code and last option download zip<br>
 Author:Asher
